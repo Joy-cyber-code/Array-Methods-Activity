@@ -1,0 +1,12 @@
+let favSingers = ["Adele", "Ed Sheeran", "Bruno Mars"];
+
+console.log("First favorite singer:", favSingers[0]);
+
+let favNumbers = [7, 14, 21, 28];
+
+let mixedArr = ["string", ["otherarray"], 123, true];
+
+console.log("First item in mixedArr:", mixedArr[0]); // Logs "string"
+console.log("Second item in mixedArr:", mixedArr[1]); // Logs ["otherarray"]
+console.log("Third item in mixedArr:", mixedArr[2]); // Logs 123
+console.log("Fourth item in mixedArr:", mixedArr[3]); // Logs true
